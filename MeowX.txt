@@ -1,25 +1,9 @@
-    
-    game.StarterGui:SetCore(
-	"SendNotification",
-	{
-		Title = "message from MeowX",
-		Text = "ใช้ให้สนุกน้าา^^",
-	}
-)
 wait(1)
 game.StarterGui:SetCore(
 	"SendNotification",
 	{
 		Title = "Made by",
 		Text = "Meow_X#9635",
-	}
-)
-wait(1)
-game.StarterGui:SetCore(
-	"SendNotification",
-	{
-		Title = "https://discord.gg/XrjV7Myh",
-		Text = "อย่าลืมเข้าdiscordของhubด้วยน้าจะได้ติดตามอัพเดทได้",
 	}
 )
 repeat
